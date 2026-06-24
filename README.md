@@ -6,6 +6,12 @@ Aplicación de clima en tiempo real construida con **React 17 + Hooks**, consumi
 
 ---
 
+##  Publicación en NetliFy
+
+https://clima-cea24d.netlify.app/
+
+--
+
 ## 📸 Características
 
 | Feature | Descripción |
